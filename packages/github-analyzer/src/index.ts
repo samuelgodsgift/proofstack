@@ -2,4 +2,4 @@
  * Entry point for the GitHub Analyzer engine.
  * This package contains pure domain logic with no framework dependencies.
  */
-export {};
+export * from "./signals";
