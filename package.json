@@ -1,0 +1,12 @@
+{
+  "name": "proofstack",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "lint": "echo \"lint placeholder\"",
+    "build": "echo \"build placeholder\""
+  }
+}
