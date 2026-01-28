@@ -3,3 +3,4 @@
  * This package contains pure domain logic with no framework dependencies.
  */
 export * from "./signals";
+export * from "./analyze/structure";
