@@ -4,3 +4,4 @@
  */
 export * from "./signals";
 export * from "./analyze/structure";
+export * from "./analyze/language";
